@@ -2,7 +2,11 @@
 
 An AI receptionist that books clinic appointments through a chat interface. It checks Google Calendar for availability, books the slot, and saves the patient record to Google Sheets.
 
-> Demo project. The clinic is fictional and no real patient data is used.
+## Demo
+
+https://github.com/dineshmete/clinic-appointment-booking-agent/blob/main/Video%20Project%203.mp4
+
+The demo shows a patient booking a checkup through the chat: a busy slot, an alternate slot offer, the booking, and the entries in Google Calendar and Google Sheets.
 
 ## Workflow
 
